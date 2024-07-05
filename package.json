@@ -1,0 +1,17 @@
+{
+  "name": "calcite-vite-starter",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4",
+    "vite-plugin-static-copy": "^0.17.0"
+  },
+  "dependencies": {
+    "@arcgis/map-components": "^4.30.3",
+    "@esri/calcite-components": "^2.1.0"
+  }
+}
