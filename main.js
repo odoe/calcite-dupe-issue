@@ -4,6 +4,7 @@
  * https://developers.arcgis.com/calcite-design-system/get-started/#choose-a-build
  **/
 import './style.css';
+import '@esri/calcite-components/dist/calcite/calcite.css';
 import { defineCustomElements as defineCalciteElements } from "@esri/calcite-components/dist/loader";
 import "@arcgis/map-components/dist/components/arcgis-map";
 
